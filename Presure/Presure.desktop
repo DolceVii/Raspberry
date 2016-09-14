@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Presure
+GenericName=Presure
+Exec=python /home/pi/Programs/Analog.py
+Icon=/home/pi/Programs/Analog.png
+Terminal=false
+Categories=Development;Engineering;Electronics;
+Keywords=embedded electronics;electronics;avr;Presure;
+Name[el_GR]=Presure
