@@ -1,0 +1,28 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+.container {
+    margin: auto;
+    width: auto;
+    background-color: #FFFFFF;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    margin: auto;
+}
+
+#chart_div {
+	margin: auto;
+	width: auto;
+	height: 400px;
+}
