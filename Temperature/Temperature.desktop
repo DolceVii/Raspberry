@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Temperature
+GenericName=Temperature
+Exec=python /home/pi/Programs/Temperature.py
+Icon=/home/pi/Programs/Temp.png
+Terminal=false
+Categories=Development;Engineering;Electronics;
+Keywords=embedded electronics;electronics;avr;Temperature;
