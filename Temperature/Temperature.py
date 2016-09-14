@@ -39,7 +39,7 @@ def read_temp():
     if temp_output != -1:
         temp_string = lines[1].strip()[temp_output+2:]
         temp_c = float(temp_string) / 1000.0
-        return '%.2f' % temp_c
+        return '%.1f' % temp_c
 
 def quit():
     global window
