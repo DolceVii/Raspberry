@@ -31,7 +31,7 @@ function testRM7(canvasId){
 	l.serie=null;
 	
 	l.setCurrentStyle({
-		mask : 			function (val){ return val+" atm"} ,
+		mask : 			function (val){ return val+" hPa"} ,
 		font : 			'bold 12px Arial ',
 		color: 			'red'
 	});
