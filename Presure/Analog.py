@@ -49,7 +49,7 @@ label5 = Label(windows, text="Η πίεση αυτήν την στιγμή", fg=
 button1 = Button(windows, text="Έξοδος", command=quits, fg="black", font=("Helvetica", 14, "bold")).pack(side=TOP, expand=NO)
 label6 = Label(windows, text="Η πίεση:", fg="red", font=("Helvetica", 28, "bold")).pack(side=LEFT, expand=YES)
 label7 = Label(windows, textvariable=varis, fg="red", font=("Helvetica", 28, "bold")).pack(side=LEFT, expand=YES)
-label8 = Label(windows, text="atm", fg="red", font=("Helvetica", 28, "bold")).pack(side=LEFT, expand=YES)
+label8 = Label(windows, text="hPa", fg="red", font=("Helvetica", 28, "bold")).pack(side=LEFT, expand=YES)
 
 def read_presure():
     x = 1 
